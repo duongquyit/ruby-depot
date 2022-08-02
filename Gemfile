@@ -56,3 +56,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'htmlbeautifier'
 gem 'pry', '~> 0.13.1'
 gem 'letter_opener_web'
+gem 'bcrypt', '~> 3.1.7'
+gem 'i18n-js', '3.9.2'
